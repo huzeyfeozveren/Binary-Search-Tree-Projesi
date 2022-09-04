@@ -16,3 +16,5 @@ average = 4,5 so x = 5
     2.     (1)             (7)
     3.  (0)   (3)       (6)   (8)
     4.          (2)   (4)       (9)
+
+Thanks to *www.patika.dev*
